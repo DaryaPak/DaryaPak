@@ -3,3 +3,7 @@
 
 #### Контакты:
 https://t.me/bansa_6
+
+#### Образование:
+Bioinformatics Institute. "Основы статистики"
+<a href="https://stepik.org/cert/2235516">Сертификат</a>
