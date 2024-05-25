@@ -5,5 +5,16 @@
 https://t.me/bansa_6
 
 #### Образование:
-Bioinformatics Institute. "Основы статистики"
+Bioinformatics Institute. "Основы статистики"  
 <a href="https://stepik.org/cert/2235516">Сертификат</a>
+
+Bioinformatics Institute. "Анализ данных в R"  
+<a href="https://stepik.org/cert/2313399">Сертификат</a> 
+
+#### Языки и инструменты:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="pandas" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="numpy" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title="matplotlib" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" title="plotly" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="50" height="50"/>&nbsp;
