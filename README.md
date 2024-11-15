@@ -5,6 +5,10 @@
 https://t.me/bansa_6
 
 #### Образование:
+karpov.courses
+
+![Сертификат](https://github.com/DaryaPak/DaryaPak/blob/main/DA.png)
+
 Bioinformatics Institute. "Основы статистики"  
 <a href="https://stepik.org/cert/2235516">Сертификат</a>
 
